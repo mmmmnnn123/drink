@@ -1,0 +1,16 @@
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\bin\Debug\Water1.exe.config
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\bin\Debug\Water1.exe
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\bin\Debug\Water1.pdb
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\Water1.csprojResolveAssemblyReference.cache
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\MainWindow.g.cs
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\App.g.cs
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\Water1_MarkupCompile.cache
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\Water1_MarkupCompile.lref
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\MainWindow.baml
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\Water1.g.resources
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\Water1.Properties.Resources.resources
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\Water1.csproj.GenerateResource.Cache
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\Water1.exe
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\Water1.pdb
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\Simple Styles.baml
+c:\users\deli\documents\visual studio 2015\Projects\Water1\Water1\obj\Debug\App.baml
